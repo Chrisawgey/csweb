@@ -47,7 +47,8 @@ body {
   text-align: center;
 }
 
-h1, h2 {
+h1,
+h2 {
   color: #2d2d2d;
 }
 
@@ -67,7 +68,9 @@ form {
   margin: 0 auto;
 }
 
-form input, form textarea, form button {
+form input,
+form textarea,
+form button {
   padding: 10px;
   margin: 10px 0;
   border: 1px solid #ddd;
